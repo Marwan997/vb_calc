@@ -3,5 +3,6 @@ Visual Basic .NET calculator
 
 To run the application, 
 
-Open bin > debug > ".exe" file 
+Download the zip file
+Extract > Open folder > bin > debug > ".exe" file 
 
